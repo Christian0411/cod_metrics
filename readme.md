@@ -1,6 +1,6 @@
 # cod_metrics 
 
-##Usage
+## Usage
 
 Get the ACT_SSO_COOKIE from my.callofduty.com:
 - Login to http://my.callofduty.com

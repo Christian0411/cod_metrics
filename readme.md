@@ -1,4 +1,5 @@
 # cod_metrics 
+Export CoD Warzone metrics into graphite!
 
 ## Usage
 
